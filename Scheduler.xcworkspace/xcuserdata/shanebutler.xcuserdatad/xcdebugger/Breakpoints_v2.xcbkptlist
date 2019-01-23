@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Scheduler/SocialViewController.swift"
+            timestampString = "568201735.2461931"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "SocialViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Scheduler.SocialViewController.facebookSwitch.getter : weak Swift.Optional&lt;__C.UISwitch&gt;"
+                  moduleName = "Scheduler"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanebutler/Desktop/Scheduler/Scheduler/SocialViewController.swift"
+                  timestampString = "567714672.438386"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "86">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Scheduler.SocialViewController.facebookSwitch.setter : weak Swift.Optional&lt;__C.UISwitch&gt;"
+                  moduleName = "Scheduler"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanebutler/Desktop/Scheduler/Scheduler/SocialViewController.swift"
+                  timestampString = "567714672.441399"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "106">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Scheduler.SocialViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; Scheduler.SocialViewController"
+                  moduleName = "Scheduler"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanebutler/Desktop/Scheduler/Scheduler/SocialViewController.swift"
+                  timestampString = "567714672.444103"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "57">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Scheduler.SocialViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;Scheduler.SocialViewController&gt;"
+                  moduleName = "Scheduler"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/shanebutler/Desktop/Scheduler/Scheduler/SocialViewController.swift"
+                  timestampString = "567714672.446853"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "50">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
